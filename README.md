@@ -5,7 +5,7 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/AHongKong/SnakeGame/master/视频1.gif" /></p>
   
-<p align="center" backgroundcolor="orange">图1:设置界面</p>
+<p align="center" bgcolor="orange">图1:设置界面</p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/AHongKong/SnakeGame/master/视频5.gif" /></p>
-<p align="center" backgroundcolor="orange">图2:游戏界面</p>
+<p align="center" bgcolor="orange">图2:游戏界面</p>
