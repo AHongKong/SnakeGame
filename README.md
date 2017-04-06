@@ -1,7 +1,7 @@
 # SnakeGame
 <head>一个类似于贪吃蛇的游戏</head>
 <p>功能：设置蛇身大小，设置速度，设置起始零食个数，每次增加的零食个数</p>
-<div bgcolor="orange">
+<div bgcolor="#ff0000">
 <p align="center"><img src="https://raw.githubusercontent.com/AHongKong/SnakeGame/master/视频1.gif" /></p>
   
 <p align="center">图1:设置界面</p>
